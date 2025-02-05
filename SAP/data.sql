@@ -1,2 +1,2 @@
-SELECT * FROM table_1;
-SELECT * FROM table_2;
+SELECT * FROM table_4;
+
